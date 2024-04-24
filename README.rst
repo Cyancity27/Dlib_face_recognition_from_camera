@@ -5,6 +5,7 @@ Introduction
 ************
 
 调用摄像头进行人脸识别, 支持多张人脸同时识别 / Detect and recognize single or multi faces from camera;
+其中使用到的预训练模型主要为OpenCV中的Fisherfaces--基于OpenCV的LBPH（Local Binary Patterns Histograms）人脸检测器
 
 #. Tkinter 人脸录入界面, 支持录入时设置 (中文) 姓名 / Face register GUI with Tkinter, support setting (chinese) name when registering
 
